@@ -2,6 +2,7 @@
 <html>
 <body>
     <?php
+    //ใช้งานไม่ค่อยเหมือนหน้า index
         $name = $_GET["name"];//ประกาศตัวแปรที่รับมาจากindex
         $age = $_GET["age"];
         $gender = $_GET["gender"];
