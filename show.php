@@ -2,7 +2,7 @@
 <html>
 <body>
     <?php
-    //ใช้งานไม่ค่อยเหมือนหน้า index
+    //ใช้งานไม่ค่อยเหมือนหน้า index ทั้งการ comment แสดง ทำสีพื้นหลัง
         $name = $_GET["name"];//ประกาศตัวแปรที่รับมาจากindex
         $age = $_GET["age"];
         $gender = $_GET["gender"];
