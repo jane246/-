@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>test</title>
+<title>test</title><!--ไม่ใส่ head ก็ใช้ได้เหมือนกัน-->
 </head>
 <body>
     <form action="show.php">
